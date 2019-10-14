@@ -1,0 +1,5 @@
+Please see the LICENSE file in each top-level directory for the terms applicable to that directory and its relative sub-directories.
+
+The relevant directories and licenses are:
+
+libc-test/                   - MIT, GPL-2.0, and others; see libc-test/musl/COPYRIGHT for details

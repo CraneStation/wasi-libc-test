@@ -1,0 +1,3 @@
+libc-test/full.log
+libc-test/pass-fail.log
+libc-test/src/common/options.h
